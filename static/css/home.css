@@ -1,0 +1,18 @@
+input[type="text"] {
+	height: 50px;
+	width: 700px;
+}
+
+input[type="text"]:hover {
+	color: #000000de;
+	border-color: #e6360a;
+}
+
+.tab button:hover {
+	background-color: #ee1909;
+	color: #FFFFFF;
+}
+
+.tab button.active {
+	background-color: #ccc;
+}
